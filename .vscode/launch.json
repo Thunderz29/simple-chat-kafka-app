@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SimpleChatAppKafkaApplication<simple-chat-app-kafka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tujuhsembilan.simple_chat_app_kafka.SimpleChatAppKafkaApplication",
+            "projectName": "simple-chat-app-kafka",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
